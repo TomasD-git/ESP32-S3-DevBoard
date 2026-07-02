@@ -1,6 +1,16 @@
 # ESP32-S3-DevBoard
 esp32 s3 devboard
 
+<details>
+<summary>BOM</summary>
+
+| BOM Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+|---|---|---|---|---|---|
+| PCB + stencil | all components are on this | 1 | 17 | https://jlcpcb.com | jlcpcb |
+| ALL components | all components that are on pcb | 1 | 20 | https://lcsc.com | lcsc |
+| | | Total cost | 37 | | |
+
+</details>
 
 # Pictures  
 **Schematic**  
