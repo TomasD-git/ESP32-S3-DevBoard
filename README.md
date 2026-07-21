@@ -18,6 +18,6 @@
 **PCB**  
 <img width="351" height="858" alt="image" src="https://github.com/user-attachments/assets/b2dc10d7-01d5-4470-8787-bbd97c6f045d" />  
 **3D Viewer (Top view)**    
-<img width="761" height="921" alt="image" src="https://github.com/user-attachments/assets/a92b9306-d8a9-41fe-8770-79df9b02427e" />  
+<img width="825" height="879" alt="image" src="https://github.com/user-attachments/assets/053c1e75-3b59-4f12-ab9e-9ba86a1aee67" />  
 **3D Viewer (Bottom view)**  
-<img width="1035" height="648" alt="image" src="https://github.com/user-attachments/assets/8f97aae5-de8e-4ef7-956d-5b97db9586ac" />  
+<img width="938" height="744" alt="image" src="https://github.com/user-attachments/assets/593feb3f-6a01-4f70-8594-31f9ddb828ed" />  
