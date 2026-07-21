@@ -1,5 +1,5 @@
 # ESP32-S3-DevBoard
-**Normal ESP32 S3 DevBoard, supports any firmware of normal esp32, has antenna**    
+**Normal ESP32 S3 DevBoard, supports any firmware of normal esp32 s3, has antenna**    
 
 <details>
 <summary>BOM</summary>
