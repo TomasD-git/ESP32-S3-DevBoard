@@ -13,11 +13,11 @@
 </details>
 
 # Pictures  
-**Schematic**  
-<img width="1310" height="858" alt="image" src="https://github.com/user-attachments/assets/de0c4651-da9e-455f-bee9-50291b445cc3" />
+**Schematic**   
+<img width="1310" height="858" alt="image" src="https://github.com/user-attachments/assets/de0c4651-da9e-455f-bee9-50291b445cc3" />  
 **PCB**  
-<img width="239" height="592" alt="image" src="https://github.com/user-attachments/assets/6bf7586f-ff23-41ed-842a-c4e14a3692c7" />
-**3D Viewer (Top view)**  
-<img width="761" height="921" alt="image" src="https://github.com/user-attachments/assets/a92b9306-d8a9-41fe-8770-79df9b02427e" />
+<img width="351" height="858" alt="image" src="https://github.com/user-attachments/assets/b2dc10d7-01d5-4470-8787-bbd97c6f045d" />  
+**3D Viewer (Top view)**    
+<img width="761" height="921" alt="image" src="https://github.com/user-attachments/assets/a92b9306-d8a9-41fe-8770-79df9b02427e" />  
 **3D Viewer (Bottom view)**  
-<img width="1035" height="648" alt="image" src="https://github.com/user-attachments/assets/8f97aae5-de8e-4ef7-956d-5b97db9586ac" />
+<img width="1035" height="648" alt="image" src="https://github.com/user-attachments/assets/8f97aae5-de8e-4ef7-956d-5b97db9586ac" />  
